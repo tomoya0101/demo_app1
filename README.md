@@ -7,18 +7,8 @@ Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
+ruby 2.4.1
 
-* Configuration
+* 目的
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+簡易SNS指導用
